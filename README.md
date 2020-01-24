@@ -1,0 +1,1 @@
+Set of Jasmine test exercises from Odin
